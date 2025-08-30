@@ -1,3 +1,3 @@
 # Learning-
-Learning from scratch 
+Learning from scratch.
 Emperor- Sabin
